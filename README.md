@@ -2,6 +2,7 @@
 
 A WordPress plugin that when activated will randomly display a quote from Bob Ross in the upper right of your admin screen on every page.
 
+![Quote: You can do anything you want to do. This is your world.](http://i.imgur.com/jBLALaK.png)
 
 ## Installation
 
